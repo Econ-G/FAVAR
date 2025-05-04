@@ -1,3 +1,7 @@
+## Acknowledgments
+
+Huge thanks to **Yuchen** for her invaluable support throughout this project. Your insights, patience, and timely feedback made all the difference in bringing this work to life!
+
 ## Data
 We use 186 Canadian
 macroeconomic monthly time series and the monthly average federal funds rate from January 1997 to November 2024.

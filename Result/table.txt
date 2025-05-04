@@ -1,0 +1,17 @@
+                                          PC1   PC2   PC3   FFR Factor_Y_total     e Total
+Total GDP                               0.650 0.321 0.011 0.017          0.999 0.045 1.044
+Canadian Bond All Sectors               0.042 0.004 0.003 0.003          0.051 0.955 1.006
+Export                                  0.197 0.110 0.004 0.006          0.318 0.702 1.020
+Import                                  0.286 0.167 0.000 0.008          0.462 0.563 1.025
+Sales of Goods Manufactured (shipments) 0.473 0.261 0.007 0.012          0.752 0.283 1.035
+Canadian Dollar Asset                   0.002 0.002 0.006 0.000          0.009 1.000 1.009
+Residential Mortgage                    0.016 0.030 0.131 0.043          0.220 0.798 1.019
+Overnight Rate                          0.333 0.011 0.003 0.424          0.771 0.078 0.850
+Total Credit Liabilities of Households  0.169 0.052 0.173 0.022          0.415 0.600 1.014
+Chartered Bank Deposits                 0.040 0.033 0.034 0.001          0.108 0.903 1.012
+Total Mortgage                          0.013 0.021 0.793 0.005          0.832 0.204 1.037
+Core Inflation                          0.009 0.006 0.000 0.000          0.014 0.995 1.010
+Total Inflation                         0.093 0.047 0.001 0.003          0.143 0.871 1.014
+Unemployment Rate                       0.047 0.018 0.002 0.037          0.104 0.904 1.009
+Employment Rate                         0.045 0.060 0.023 0.015          0.143 0.872 1.015
+Effective Exchange Rate                 0.168 0.013 0.036 0.063          0.280 0.683 0.963

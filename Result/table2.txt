@@ -1,0 +1,17 @@
+                                 Variables Contribution R.squared
+1                                Total GDP        0.016     0.955
+2                Canadian Bond All Sectors        0.003     0.053
+3                                   Export        0.006     0.305
+4                                   Import        0.008     0.442
+5  Sales of Goods Manufactured (shipments)        0.012     0.720
+6                    Canadian Dollar Asset        0.000     0.009
+7                     Residential Mortgage        0.042     0.209
+8                           Overnight Rate        0.499     0.922
+9   Total Credit Liabilities of Households        0.021     0.406
+10                 Chartered Bank Deposits        0.001     0.105
+11                          Total Mortgage        0.005     0.797
+12                          Core Inflation        0.000     0.014
+13                         Total Inflation        0.003     0.137
+14                       Unemployment Rate        0.037     0.104
+15                         Employment Rate        0.015     0.136
+16                 Effective Exchange Rate        0.066     0.323
